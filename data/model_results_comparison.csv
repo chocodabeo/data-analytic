@@ -1,0 +1,4 @@
+﻿Mô hình,R2 (Log Scale),MAE (Sản phẩm),RMSE (Sản phẩm)
+Baseline (Median),-0.5154,21.04,300.41
+Ridge Regression,0.6882,256.12,15712.43
+Random Forest Regressor,0.8226,12.15,267.66
